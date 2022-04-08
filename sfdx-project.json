@@ -2,7 +2,7 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
+            "default": false,
             "package": "DreamhouseLWC",
             "versionName": "Spring '21",
             "versionNumber": "54.0.0.NEXT"
@@ -10,9 +10,9 @@
         {
             "path": "force-app",
             "package": "th-dreamhouse",
-            "versionName": "Verion 1.0",
+            "versionName": "Version 1.0",
             "versionNumber": "1.0.0.NEXT",
-            "default": false
+            "default": true
         }
     ],
     "namespace": "",
